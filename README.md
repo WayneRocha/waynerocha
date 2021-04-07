@@ -7,7 +7,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br>
+<br><br>
 
 Olá, meu nome é Wayne, eu sou um jovem programador que ama inventar coisas novas e me aprofundar nesse incrivel mundo da programação.
 
