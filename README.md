@@ -36,8 +36,13 @@ Além de estar estudando DS também tento fazer alguns projetos para aprimorar m
 - Deliver Quality Work with Agility; 
 - Solving Problems with Critical and Creative Thinking.  
 
-📈 My GitHub Stats
+<br><br><br>
 
-<p align="center"> 
+<p align="center"> 📈 My GitHub Stats
+
+  
+<div style="text-align: center">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
