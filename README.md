@@ -17,8 +17,6 @@ Estou sempre em busca de me tornar um programador melhor, desenvolvendo boas pra
 Além de estar estudando DS também tento fazer alguns projetos para aprimorar meus conhecimentos, e eu os posto aqui no GitHub.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Me pergunte algo, vou ficar feliz de te ajudar 😊;
 
 **Linguagens e ferramentas que uso:** 
 
