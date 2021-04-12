@@ -26,7 +26,7 @@
 - Trabalho de qualidade com agilidade | Deliver Quality Work with Agility
 - Resolver problemas com um pensamento crítico e criativo | Solving Problems with Critical and Creative Thinking
 
-<br><br><br>
+<br>
 
 ### 📈 My GitHub Stats
   
