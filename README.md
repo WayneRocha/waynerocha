@@ -1,7 +1,7 @@
 ### Olá, meu nome é Wayne, eu sou um jovem programador que ama inventar coisas novas e me aprofundar nesse incrivel mundo da programação.
 
 ### Atualmente eu **estudo Desenvolvimento de Sistemas** na Etec ZL.
-### Estou sempre em busca de me tornar um programador melhor, desenvolvendo boas praticas e aprendendo e me aprofundo em algumas das linguagens abaixo.
+### Estou sempre em busca de me tornar um programador melhor, desenvolvendo boas praticas, aprendendo e me aprofundo em algumas das linguagens abaixo.
 ### Além de estar estudando DS também tento fazer alguns projetos para aprimorar meus conhecimentos, e eu os posto aqui no GitHub. 
 
 <p></p>
