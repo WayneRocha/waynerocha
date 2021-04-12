@@ -27,11 +27,7 @@
 - Resolver problemas com um pensamento crítico e criativo | Solving Problems with Critical and Creative Thinking
 
 <br><br><br>
-  
-<center>
-  
-  <p align="center"> 📈 My GitHub Stats
+
+### 📈 My GitHub Stats
   
   [![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</center>
