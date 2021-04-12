@@ -1,5 +1,3 @@
-<br><br>
-
 ### Olá, meu nome é Wayne, eu sou um jovem programador que ama inventar coisas novas e me aprofundar nesse incrivel mundo da programação.
 
 ### Atualmente eu **estudo Desenvolvimento de Sistemas** na Etec ZL.
