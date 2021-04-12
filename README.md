@@ -22,19 +22,18 @@
 
 ## [**skills/habilidades**](https://ptech.yourlearning.ibm.com/certificate/share/ffa2b56a56ewogICJvYmplY3RJZCIgOiAiSUxCLVdXWk1YWkpSWkdSWjZWVlkiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIwNTAyNjNSRUciCn0e0ee0d5e90-10)
 
-- Collaborate Effectively;
-- Present with Purpose;
-- Interpersonal Skills;  
-- Deliver Quality Work with Agility; 
-- Solving Problems with Critical and Creative Thinking.  
+- Colaborar de forma eficaz | Collaborate Effectively
+- Apresentação | Present with Purpose
+- habilidades interpessoais | Interpersonal Skills
+- Trabalho de qualidade com agilidade | Deliver Quality Work with Agility
+- Resolver problemas com um pensamento crítico e criativo | Solving Problems with Critical and Creative Thinking
 
 <br><br><br>
-
-<p align="center"> 📈 My GitHub Stats
-
   
-<div style="text-align: center">
+<center>
+  
+  <p align="center"> 📈 My GitHub Stats
   
   [![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+</center>
