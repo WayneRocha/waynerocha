@@ -23,9 +23,10 @@
 
 - Colaborar de forma eficaz | Collaborate Effectively
 - Apresentação | Present with Purpose
-- habilidades interpessoais | Interpersonal Skills
+- Habilidades interpessoais | Interpersonal Skills
 - Trabalho de qualidade com agilidade | Deliver Quality Work with Agility
 - Resolver problemas com um pensamento crítico e criativo | Solving Problems with Critical and Creative Thinking
+- Tecnicas de Design Thinking
 
 <br>
 
