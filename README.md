@@ -30,6 +30,5 @@
 
 <br>
 
-### 📈 My GitHub Stats
-  
-  [![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
