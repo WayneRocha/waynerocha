@@ -17,7 +17,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="Banco de Dados My SQL"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Versionamento com git"></code>
-<code><img height="60" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397183645/50bf4fee6f1194cbd5064a4342c4ab75.png" title="Robotica com arduino"></code>
+<code><img height="60" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397183645/50bf4fee6f1194cbd5064a4342c4ab75.png" title="Criação de protótipos"></code>
 
 [![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
