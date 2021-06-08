@@ -21,12 +21,3 @@
 
 [![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## [**skills/habilidades**](https://ptech.yourlearning.ibm.com/certificate/share/ffa2b56a56ewogICJvYmplY3RJZCIgOiAiSUxCLVdXWk1YWkpSWkdSWjZWVlkiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIwNTAyNjNSRUciCn0e0ee0d5e90-10)
-
-- Colaborar de forma eficaz | Collaborate Effectively
-- Apresentação | Present with Purpose
-- Habilidades interpessoais | Interpersonal Skills
-- Trabalho de qualidade com agilidade | Deliver Quality Work with Agility
-- Resolver problemas com um pensamento crítico e criativo | Solving Problems with Critical and Creative Thinking
-- Tecnicas de Design Thinking
