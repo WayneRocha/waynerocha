@@ -12,7 +12,6 @@
 <br>
 
 <h2>Linguagens</h2>
-<hr>
 <br>
 
 <div align=center>
@@ -33,9 +32,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
+<br>
 
 <h2>Frameworks</h2>
-<hr>
 <br>
 
 <div align=center>
@@ -53,11 +52,33 @@
 </div>
 <br>
 
-<div align=center>
+## Contact
+<br>
 
+<div align="left">
+    <a href="">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em">
+    </a>   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em">
+    </a>
+</div>
+<br>
+<br>
+
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true" align=center height=150em>
   &nbsp;&nbsp;
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark" align=center height=150em>
-
 </div>
+
