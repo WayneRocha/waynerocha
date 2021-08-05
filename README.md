@@ -1,23 +1,84 @@
-### Olá, meu nome é Wayne, eu sou um jovem programador que ama inventar coisas novas e me aprofundar nesse incrivel mundo da programação
+# Sou  Wayne 
 
-### Atualmente eu **estudo Desenvolvimento de Sistemas** na Etec ZL
-### Estou sempre em busca de me tornar um programador melhor, desenvolvendo boas praticas, aprendendo e me aprofundo em algumas das linguagens abaixo
-### Em meu tempo livre faço alguns projetos para aprimorar meus conhecimentos, e eu os posto aqui no GitHub
+<div align=left>
+  <p>Desenvolvedor Web Front-End </p>
+  <p>Estudo Desenvolvimento de Sistemas pela escola técnica Etec da Zona Leste – São Paulo, SP </p>Foco-me sempre em aprender mais sobre sites, aplicações, como também adquirir novas e boas Skills para a carreira </p>
+</div>
+<br>
 
-<p></p>
+<div align=center>
+    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
+<br>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h2>Linguagens</h2>
+<br>
 
-## **Desenvolvo com:**
+<div align=center>
 
-<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" title="HTML"></code>
-<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS3"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="Banco de Dados My SQL"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Versionamento com git"></code>
-<code><img height="60" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397183645/50bf4fee6f1194cbd5064a4342c4ab75.png" title="Criação de protótipos"></code>
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" title="HTML">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![Wayne Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS3">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+<br>
+
+<h2>Frameworks</h2>
+<br>
+
+<div align=center>
+
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="Banco de Dados My SQL">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Versionamento com git">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  <img height="60" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397183645/50bf4fee6f1194cbd5064a4342c4ab75.png" title="Criação de protótipos">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+<br>
+
+## Contact
+<br>
+
+<div align="left">
+    <a href="">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em">
+    </a>   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em">
+    </a>
+</div>
+<br>
+<br>
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true" align=center height=150em>
+  &nbsp;&nbsp;
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark" align=center height=150em>
+</div>
+
