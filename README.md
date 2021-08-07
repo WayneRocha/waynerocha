@@ -56,29 +56,29 @@
 <br>
 
 <div align="left">
-    <a href="">
-        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em">
+    <a href="https://api.whatsapp.com/send?phone=5511933986789&text=Prazer%2C%20meu%20nome%20%C3%A9%20Wayne%2C%20estudo%20desenvolvimento%20de%20sistemas%20na%20Etec%20ZL%20e%20sou%20um%20desenvolvedor%20web.%20Clique%20acima%20para%20podermos%20conversar%20melhor">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em" title="Conversar por Whatsapp">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="">
-        <img src="https://i.imgur.com/tLI3d6L.png" height="30em">
+     <a href="mailto:dev.waynerocha@gmail.com">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em" title="Envie-me um email">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="">
-        <img  src="https://i.imgur.com/LpVinhs.png" height="30em">
+    <a href="https://github.com/WayneRocha/">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em" title="Meu perfil GitHub">
     </a>   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="">
-        <img src="https://i.imgur.com/HlqBmV8.png" height="30em">
+    <a href="https://www.linkedin.com/in/wayne-andr%C3%A9-421004204/">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em" title="Meu perfil LinkedIn">
     </a>
 </div>
 <br>
 <br>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true" align=center height=150em>
+  <img src="https://github-readme-stats.vercel.app/api?username=WayneRocha&theme=dark&show_icons=true" align=center height=200em>
   &nbsp;&nbsp;
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark" align=center height=150em>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&theme=dark" align=center height=200em>
 </div>
 
