@@ -56,7 +56,7 @@
 <br>
 
 <div align="left">
-    <a href="https://api.whatsapp.com/send?phone=5511933986789&text=Prazer%2C%20meu%20nome%20%C3%A9%20Wayne%2C%20estudo%20desenvolvimento%20de%20sistemas%20na%20Etec%20ZL%20e%20sou%20Desenvolvedor%20Web.%20%20%20Vamos%20conversar%3F">
+    <a href="https://api.whatsapp.com/send?phone=5511933986789&text=Prazer%2C%20meu%20nome%20%C3%A9%20Wayne%2C%20estudo%20desenvolvimento%20de%20sistemas%20na%20Etec%20ZL%20e%20sou%20Desenvolvedor%20Web.<br><br>Vamos%20conversar%3F">
         <img  src="https://i.imgur.com/YyLyMPi.png" height="30em" title="Conversar por Whatsapp">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
