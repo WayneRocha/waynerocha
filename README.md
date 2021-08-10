@@ -68,7 +68,7 @@
         <img  src="https://i.imgur.com/LpVinhs.png" height="30em" title="Meu perfil GitHub">
     </a>   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/wayne-andr%C3%A9-421004204/">
+    <a href="linkedin.com/in/wayne-rocha-421004204">
         <img src="https://i.imgur.com/HlqBmV8.png" height="30em" title="Meu perfil LinkedIn">
     </a>
 </div>
