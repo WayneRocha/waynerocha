@@ -1,8 +1,8 @@
 # Sou  Wayne 
 
 <div align=left>
-  <p>Desenvolvedor Web Front-End </p>
-  <p>Estudo Desenvolvimento de Sistemas pela escola técnica Etec da Zona Leste – São Paulo, SP </p>Foco-me sempre em aprender mais sobre sites, aplicações, como também adquirir novas e boas Skills para a carreira </p>
+  <h3>Desenvolvedor Web Front-End </h3>
+  <p>Estudo Desenvolvimento de Sistemas pela escola técnica Etec da Zona Leste – São Paulo, SP </p>Foco-me sempre em aprender mais sobre desenvolvimento e boas práticas, como também adquirir novas e boas Skills </p>
 </div>
 <br>
 
