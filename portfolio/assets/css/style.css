@@ -394,7 +394,18 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
-
+.hardskills-languages-icons {
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.hardskills-languages-icons i{
+  font-size: 6em;
+}
+.hardskills-languages-icons img{
+  width: 6em;
+  height: 6em;
+}
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
