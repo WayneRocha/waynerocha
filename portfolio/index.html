@@ -81,7 +81,9 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div id="particles-js"></div>
+    <div id="particles-js">
+      <canvas class="particles-js-canvas-el" width="1680" height="892" style="width: 100%; height: 100%;"></canvas>
+    </div>
     <div class="hero-container" data-aos="fade-in">
       <h1>Wayne Rocha</h1>
       <p>Eu sou <span class="typed" data-typed-items="Desenvolvedor Web,UI/UX Designer"></span></p>
@@ -531,7 +533,7 @@
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  <span style="background-color: rgb(39, 40, 41);">esperando ele me responde no linkedIn, F, esperando ele me responde no linkedIn, F, esperando ele me responde no linkedIn, F</span>
+                  Sobre o Wayne, destaco o compromisso e cuidado com as atividades que se compromete, tendo em vista seu projeto sobre Cibersegurança. O Wayne é um estudante com grande potencial profissional.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <a style="text-decoration: none;" href="https://www.linkedin.com/in/victorpiotto/" target="_blank">
@@ -598,21 +600,22 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="mailto: dev.waynerocha@gmail.com" method="post" role="form" class="php-email-form"
-              enctype="text/plain">
+            <form action="https://formsubmit.co/8202ba1a95b0e7e29a14759eb183fc07" method="POST" class="php-email-form">
               <div class="row">
+                <input type="hidden" name="_next" value="https://waynerocha.github.io/WayneRocha/portfolio/thanks.html">
+
                 <div class="form-group col-md-6">
                   <label for="name">Seu Nome</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Seu Email</label>
+                  <label for="email">Seu Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Assunto</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
+                <label for="subject">Assunto</label>
+                <input type="text" class="form-control" name="_subject" id="subject" required>
               </div>
               <div class="form-group">
                 <label for="name">Mensagem</label>
@@ -623,7 +626,9 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Muito Obrigado! Entro em contato com você em breve</div>
               </div>
-              <div class="text-center"><button type="submit">Enviar</button></div>
+              <div class="text-center">
+                <button type="submit">Enviar</button>
+              </div>
             </form>
           </div>
         </div>
@@ -640,7 +645,7 @@
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/typed.js/typed.min.js"></script>
@@ -659,106 +664,9 @@
   <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 
 
-  <script>
+  <script type="module">
     /* ---- particles.js config ---- */
-
-    const config = {
-      "particles": {
-        "number": {
-          "value": 50,
-          "density": {
-            "enable": true,
-            "value_area": 1200
-          }
-        },
-        "color": {
-          "value": "#ffffff"
-        },
-        "shape": {
-          "type": "circle",
-          "stroke": {
-            "width": 1,
-            "color": "#000000"
-          },
-          "polygon": {
-            "nb_sides": 3
-          }
-        },
-        "opacity": {
-          "value": 0.5,
-          "random": false,
-          "anim": {
-            "enable": false,
-            "speed": 0.6,
-            "opacity_min": 0.1,
-            "sync": false
-          }
-        },
-        "size": {
-          "value": 6,
-          "random": true,
-          "anim": {
-            "enable": false,
-            "speed": 40,
-            "size_min": 0.1,
-            "sync": false
-          }
-        },
-        "line_linked": {
-          "enable": true,
-          "distance": 300,
-          "color": "#ffffff",
-          "opacity": 0.2,
-          "width": 1
-        },
-        "move": {
-          "enable": true,
-          "speed": 2,
-          "direction": "none",
-          "random": false,
-          "straight": false,
-          "out_mode": "out",
-          "bounce": false,
-          "attract": {
-            "enable": true,
-            "rotateX": 600,
-            "rotateY": 1800
-          }
-        }
-      },
-      "interactivity": {
-        "detect_on": "div",
-        "modes": {
-          "grab": {
-            "distance": 200,
-            "line_linked": {
-              "opacity": 1
-            }
-          },
-          "bubble": {
-            "distance": 400,
-            "size": 40,
-            "duration": 2,
-            "opacity": 8,
-            "speed": 3
-          },
-          "repulse": {
-            "distance": 200,
-            "duration": 0.4
-          },
-          "push": {
-            "particles_nb": 4
-          },
-          "remove": {
-            "particles_nb": 2
-          }
-        }
-      },
-      "retina_detect": true
-    };
-
-    const width = window.innerWidth;
-    const height = window.innerHeight;
+    import config from './assets/js/particlesjs-config.js';
 
     particlesJS("particles-js", config);
   </script>
@@ -778,10 +686,9 @@
       position: absolute;
     }
 
-    #particles-js,
-    #particles-js-canvas-el {
+    #particles-js{
       width: 100%;
-      height: 100vh;
+      height: 100%;
     }
 
     .dev-hours::before {
