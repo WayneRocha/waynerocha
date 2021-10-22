@@ -227,12 +227,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
+  white-space: pre-line;
 }
 #hero p span {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
+  word-wrap: break-word;
 }
 @media (min-width: 1024px) {
   #hero {
@@ -249,6 +251,9 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+  #hero p {
+    font-size: 22px;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -264,7 +269,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 .section-title h2 {
   font-size: 32px;
@@ -285,6 +290,7 @@ section {
   left: 0;
 }
 .section-title p {
+  line-height: 2rem;
   margin-bottom: 0;
 }
 
@@ -399,6 +405,7 @@ section {
   text-align: center;
   margin-top: 12px;
   margin-bottom: 12px;
+  min-width: min-content;
 }
 .hardskills-languages-icons i{
   font-size: 6em;
