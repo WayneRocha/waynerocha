@@ -539,6 +539,9 @@ section {
   opacity: 1;
   bottom: 0;
 }
+.portifolio-project {
+  aspect-ratio: 4/3;
+}
 
 /*--------------------------------------------------------------
 # Portfolio Details
