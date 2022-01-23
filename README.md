@@ -24,6 +24,8 @@
  <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"  width="40" height="40"/>
   &nbsp;&nbsp;
+  <img src="https://2.bp.blogspot.com/-1buvUPT0oos/Xf_xDZjn13I/AAAAAAAAGME/sBPcKI3-hnUZWs8dcILDbuULO7a7He3BwCK4BGAYYCw/s400/PyCharm_Logo-150x150.png"  width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/>  
   &nbsp;&nbsp;
   <img src="https://www.gstatic.com/devrel-devsite/prod/v9a7f09bb7f4c184c1c51854c0e49b9781e5080168a451bfdb66303a8ed0ad46f/firebase/images/touchicon-180.png" width="40" height="40"/>
