@@ -36,16 +36,18 @@
 </div>
   
 ### :octocat: Contribuição 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynerocha&theme=radical&show_icons=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynerocha&theme=radical&show_icons=true)
-  
-### Portifólio e mais sobre mim
+### 📖 Portifólio e mais sobre mim
 
 <a href="https://waynerocha.github.io/WayneRocha/portfolio/">
-<img src="https://raw.githubusercontent.com/WayneRocha/WayneRocha/main/assets/undraw_site_content_re_4ctl.svg"/ height="100em">
+<img src="https://raw.githubusercontent.com/WayneRocha/WayneRocha/main/assets/undraw_site_content_re_4ctl.svg"/ height="130em">
 </a>
 
-### Vamos conversar
+### 🤝 Vamos conversar
 
 <h3 align="left">
   <a href="mailto:dev.waynerocha@gmail.com" alt="Gmail" target="_blank">
