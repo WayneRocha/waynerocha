@@ -442,6 +442,8 @@ section {
   margin-bottom: 30px;
 }
 .portfolio .portfolio-item img{
+  width: 100%;
+  object-fit: cover;
   image-rendering: optimizeSpeed;
   transform: scale(1.0);
   transition: ease-in-out .3s;
@@ -470,6 +472,11 @@ section {
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
+
+.portfolio #portfolio-flters li a{
+  color: #272829;
+}
+
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #149ddd;
 }
