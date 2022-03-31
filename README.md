@@ -32,31 +32,8 @@
   > <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   > <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   
-  
-   ### 💼 Tools: 
-
-   <div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"  width="40" height="40"/>
-    &nbsp;&nbsp;
-    <img src="https://2.bp.blogspot.com/-1buvUPT0oos/Xf_xDZjn13I/AAAAAAAAGME/sBPcKI3-hnUZWs8dcILDbuULO7a7He3BwCK4BGAYYCw/s400/PyCharm_Logo-150x150.png"  width="40" height="40"/>
-    &nbsp;&nbsp;
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/>  
-    &nbsp;&nbsp;
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v9a7f09bb7f4c184c1c51854c0e49b9781e5080168a451bfdb66303a8ed0ad46f/firebase/images/touchicon-180.png" width="40" height="40"/>
-    &nbsp;&nbsp;
-    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_E5fiGLe.png" width="40" height="40"/>
-    &nbsp;&nbsp;
-    <img src="https://responsively.app/assets/img/logo.svg" width="40" height="40"/>  
-  </div>
-
-  ### :octocat: Contribution
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynerocha&theme=radical&show_icons=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
   ### 🤝 More About Me
 
-  
   <h3 align="left">
   <a href="mailto:dev.waynerocha@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -113,27 +90,6 @@
   > <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   > <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   
- ### 💼 Ferramentas: 
-
- <div style="display: flex;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"  width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://2.bp.blogspot.com/-1buvUPT0oos/Xf_xDZjn13I/AAAAAAAAGME/sBPcKI3-hnUZWs8dcILDbuULO7a7He3BwCK4BGAYYCw/s400/PyCharm_Logo-150x150.png"  width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/>  
-  &nbsp;&nbsp;
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v9a7f09bb7f4c184c1c51854c0e49b9781e5080168a451bfdb66303a8ed0ad46f/firebase/images/touchicon-180.png" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/03/icon_E5fiGLe.png" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://responsively.app/assets/img/logo.svg" width="40" height="40"/>  
-</div>
-
-### :octocat: Contribuição 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynerocha&theme=radical&show_icons=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynerocha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🤝 Mais sobre mim
 
