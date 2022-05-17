@@ -4,7 +4,7 @@
   <summary align="right">English</summary>
   <br>
   
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
   <p align="left">
     Hi! I'm <strong>Wayne Rocha</strong>, I study Systems Development at Etec Zl, I'm passionate about Web Development and improving people's lives through the incredible power of programming 👩‍💻
